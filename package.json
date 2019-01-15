@@ -1,0 +1,22 @@
+{
+  "name": "js-pdf",
+  "version": "1.0.0",
+  "description": "Generating PDF invoices using Javascript",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/aakashvarma/js-pdf.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/aakashvarma/js-pdf/issues"
+  },
+  "homepage": "https://github.com/aakashvarma/js-pdf#readme",
+  "dependencies": {
+    "html-pdf": "^2.2.0"
+  }
+}
